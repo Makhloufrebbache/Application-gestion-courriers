@@ -1,0 +1,12 @@
+.error404{
+	position:relative;
+	text-align:center;
+		}
+	
+.content404{
+  width: 80%;
+  margin: 11% auto;
+  background-color: #bebcbc;
+  text-align: center;
+  border-radius: 5px;
+  }

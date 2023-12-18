@@ -1,0 +1,11 @@
+# Réécrit une URL de type xxx/yyy/zzz en index.php?controleur=xxx&action=yyy&id=zzz
+# ErrorDocument 301 "E301"
+# ErrorDocument 302 "E302"
+# ErrorDocument 403 "Acces interdit"
+# ErrorDocument 404 http://localhost/tchinlait
+# ErrorDocument 500 "Erreur interne"
+
+RewriteEngine on
+RewriteRule ^([a-zA-Z\-]*)/?([a-zA-Z]*)?/?([a-zA-Z0-9\-']*)?/?([a-zA-Z]*)?/?$ index.php?controleur=$1&action=$2&id=$3&lang=$4 [NC,L]
+
+

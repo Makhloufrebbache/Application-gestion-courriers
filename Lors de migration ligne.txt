@@ -1,0 +1,4 @@
+
+Config/dev:racine et BDD
+modele/distributeurw.php: code connexion BDD
+modele/defaut.php: code connexion BDD

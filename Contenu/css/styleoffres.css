@@ -1,0 +1,46 @@
+.offre{
+	position:relative;
+	width:710px;
+	height:280px;
+	margin-left:-30px;
+	}
+	
+.offres{
+  position: absolute;
+  right: 0;
+  width: 250px;
+  padding: 0;
+  margin: 20px;
+  }
+	
+.video{
+position: absolute;
+  /* float: right; */
+  top: -62px;
+  left: -20px;
+  width: 380px;
+  height: 260px;
+  padding: 15px 0 0 20px;
+  }
+user agent stylesheetdiv {
+  display: block;  }
+	
+.video object{
+  position: absolute;
+  margin: 0 0 0 0;
+  padding: 0;
+  }
+  
+.offres p {
+	padding:20px;
+	border:solid 2px #666666;
+	border-radius:5px;
+	height:140px;
+	}
+	
+.offres h4 {
+	background-color:olive;
+	border-radius:5px;
+	padding-left:8px;
+	margin-bottom:1px !important;
+	}

@@ -1,0 +1,235 @@
+.blokpage {
+	margin-right: 15%;
+	margin-left: 15%;	
+}
+
+
+.blok1 {
+	float: left;
+}
+
+.blokhorizental{
+	width: 1004px;
+	padding: 10px;
+}
+
+
+.blokdroit{
+	width: 320px;
+	float: right;
+}
+
+.blokpdf {
+	float: right;
+	background-image: url(images/fondpdf.jpg);
+	background-repeat: no-repeat;
+	
+	height: 288px;
+	width: 305px;
+}
+
+
+
+.logo {
+	font-family: Verdana, Geneva, sans-serif;	
+}
+
+.moteurreccherche {
+	background-color: #FFF;
+	height: 36px;
+	width: 236px;
+	border: 1px solid #CCC;
+}
+
+
+.mote {
+	margin-right: 45px;
+	padding-top: 20px;
+}
+
+.reseau {
+	padding-top: 20px;
+	margin-left: 82px;
+	float: left;
+}
+
+.menug {
+	background-color: #999;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #333;
+	border-right-color: #333;
+	border-bottom-color: #333;
+	border-left-color: #333;
+	height: 100px;
+	width: 100px;
+}
+
+.botton {
+	background-image: url(images/deg_botton.jpg);
+	background-repeat: repeat-y;
+	height: 32px;
+	width: 41px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #FFF;
+	position: relative;
+	top: -37px;
+	right: -195px;
+}
+
+.logo2 {
+	margin-left: 82px;	
+}
+
+.depeche {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFF;
+	background-image: url(images/depeche.jpg);
+	float: left;
+	height: 36px;
+	width: 100px;
+	padding-left: 36px;
+	padding-top: 15px;
+}
+
+
+.depechemer {
+	width: 1004px;
+	float: left;
+	background-color: #FFF;
+}
+
+
+.entete {
+	width: 1004px;
+	margin-bottom: 20px;
+}
+
+.pageac{
+	width: 1004px;
+	position: relative;
+	top: -300px;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #FFF;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	height: 900px;
+	}
+
+
+
+.pub {
+	width: 1340px;
+	margin-left: 0px;	
+}
+
+
+.depeche1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	width: 97%;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin: 6px;
+}
+  
+  
+  
+  
+  
+  .atitrepro {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #999;
+	text-decoration: line-through;
+}
+
+
+.boitecommandez {
+	border: 1px none #FFF;
+	background-image: url(images/b_commandez.jpg);
+	background-repeat: no-repeat;
+	height: 30px;
+	width: 180px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #000;
+}
+  
+  
+  
+
+
+.boitecommandez {
+	border: 1px none #FFF;
+	background-image: url(images/b_commandez.jpg);
+	background-repeat: no-repeat;
+	height: 30px;
+	width: 180px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #000;
+}
+
+div.pagination {
+	width:auto;
+	clear:both;
+	margin:20px;
+	text-align:center;
+	float:left;
+	clear:both;
+	font-size:11px;
+	padding-top: 10px;
+	padding-right: 0;
+	padding-bottom: 10px;
+	padding-left: 0;
+}
+
+div.pagination a {
+padding: 2px 5px 2px 5px;
+margin-right: 2px;
+border: 1px solid #52bfea;
+text-decoration: none; 
+color: #52bfea;
+}
+div.pagination a:hover, div.pagination a:active {
+border:1px solid #52bfea;
+color: #fff;
+background-color: #52bfea;
+}
+div.pagination span.current {
+padding: 2px 5px 2px 5px;
+margin-right: 2px;
+border: 1px solid #52bfea;
+font-weight: bold;
+background-color: #52bfea;
+color: #FFF;
+}
+div.pagination span.disabled {
+padding: 2px 5px 2px 5px;
+margin-right: 2px;
+border: 1px solid #f3f3f3;
+color: #ccc;
+}
+
+a{text-decoration:none}
